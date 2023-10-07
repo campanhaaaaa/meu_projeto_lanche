@@ -6,3 +6,9 @@
 .card-text{
     text-align: center;
 }
+
+footer{
+    flex-shrink: 0;
+}
+
+.bgcfooter{background-color: var(--corPrincipal);}
